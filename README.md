@@ -85,3 +85,26 @@ Then open http://localhost:5173 in your browser.
 - **Frontend:** React + Vite, react-markdown for rendering
 - **Storage:** JSON files in `data/conversations/`
 - **Package Management:** uv for Python, npm for JavaScript
+
+## Some Forks to Look Out For ##
+
+1. https://github.com/karpathy/llm-council
+2. https://github.com/jacob-bd/llm-council-plus
+3. https://github.com/jonromero/llm-council-in-the-browser
+4. https://github.com/mchzimm/llm-council-local-improved
+5. https://github.com/Mohamadreza-Shahmohamadi/LLM_Council_ApplimentAI_Enhanced
+6. https://github.com/elhamid/llm-council
+7. https://github.com/CrazyDubya/llm-council
+8. https://github.com/DonRuben/GenesisChamber
+9. https://github.com/dustinvali/Good-UI-Council
+10. https://github.com/signalnine/neverending-llm-council
+11. https://github.com/stfalcon/llm-councilhttps://github.com/teemulinna/ai-council
+12. https://github.com/themacmarketer/llm-council
+13. https://github.com/bencoll352/llm-council
+14. https://github.com/ToxicPotato/Crucible
+15. https://github.com/ashwathravi/llm-council
+16. https://github.com/lenadub/llm-council
+17. https://github.com/Kahlain/llm-council
+18. https://github.com/Nasotro/Gen-AI-llm-council
+19. https://github.com/iamsuriyakanth/llm-council-plus
+20. https://github.com/helix4u/llm-council_mod
